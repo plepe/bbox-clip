@@ -1,0 +1,12 @@
+{
+  "name": "bbox-clip",
+  "version": "0.0.0",
+  "description": "@turf/bbox-clip, but can also clip GeometryCollection",
+  "main": "src/bboxClip.js",
+  "repository": "https://github.com/plepe/bbox-clip",
+  "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/bbox-clip": "^6.0.3"
+  }
+}
