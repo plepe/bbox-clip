@@ -1,6 +1,6 @@
 {
   "name": "bbox-clip",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "@turf/bbox-clip, but can also clip GeometryCollection",
   "main": "src/bboxClip.js",
   "repository": "https://github.com/plepe/bbox-clip",
